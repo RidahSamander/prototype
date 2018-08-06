@@ -46,7 +46,11 @@ project checklist:
 	[Done] text editor
 	[Done] trimenal
 	[Done] create a github rep
-[] html
+	[Done] Node JS
+	[Done] NPM: Node Package Manager
+	[Done] SASSnpm
+	[Done] gulp
+	[Done] .gitignore
 [] css
 [] java-script
 
