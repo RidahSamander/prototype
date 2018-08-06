@@ -1,0 +1,71 @@
+/*** All Pages Setting ***/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+/*** --v-- Only Container Setting --v-- ***/
+
+#container {
+    width: 1200px;
+    height: 800px;
+}
+
+/*** --v-- Header Setting --v-- ***/
+header {
+    float: top;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0px;
+}
+
+#main-title {
+    float: left;
+    clear: both;
+    width: 200px;
+}
+
+#header-list {
+    float: center;
+    clear: both;
+    width: 600px;
+
+}
+
+#search-box {
+    float: right;
+    clear: both;
+    width: 200px;
+}
+
+/*** --v-- Intractive Window Setting --v-- ***/
+
+#three-d-map {
+    float: left;
+    clear: both;
+    width: 69%;
+    border: 1px solid black;
+}
+
+.images {
+    width: 100%;
+    height: auto;
+}
+
+/*** --v-- Sidebar Setting --v-- ***/
+
+#tools {
+    float: right;
+    width: 30%;
+    border: 1px solid black;
+    margin: 0px;
+    height: 734px;
+    background: #708EA5;
+}
+
+/*** --v-- Footer Setting --v-- ***/
+
+footer {
+    clear: both;
+    border: 1px solid black;
+}

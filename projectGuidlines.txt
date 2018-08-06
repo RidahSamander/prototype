@@ -1,0 +1,37 @@
+project name:
+
+project requirements:
+* showcase what it does.
+* main called action to download or adopt
+* value proposition
+* key features
+* how it works
+* user reviews
+* display barnd: NO
+* special offer:
+
+
+
+project checklist:
+[Done] research
+[Done] compatetors study
+[Done] wireframing
+[Done] mood board
+[Done] low res mocks
+	[Done] art direction
+[] high res mocks
+	[Done] Base
+	[] Library
+	[] Neighborhood
+	[] Home
+	[] Social Life
+	[] Market
+	[] wallet allocation
+[] Prototyping
+[] export for dev
+[] set up dev environment
+[] html
+[] css
+[] java-script
+
+
