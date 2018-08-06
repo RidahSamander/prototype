@@ -19,17 +19,33 @@ project checklist:
 [Done] mood board
 [Done] low res mocks
 	[Done] art direction
-[] high res mocks
-	[Done] Base
-	[] Library
-	[] Neighborhood
-	[] Home
-	[] Social Life
-	[] Market
-	[] wallet allocation
-[] Prototyping
+[] Phone Size Design
+	[] high res mocks
+		[Done] Base
+		[] Library
+		[] Neighborhood
+		[] Home
+		[] Social Life
+		[] Market
+		[] wallet allocation
+		[] SignIn/SignUp
+	[] Prototyping
+[] Web-Page Size Design
+	[] high res mocks
+		[] Base
+		[] Library
+		[] Neighborhood
+		[] Home
+		[] Social Life
+		[] Market
+		[] wallet allocation
+		[] SignIn/SignUp
+	[] Prototyping
 [] export for dev
 [] set up dev environment
+	[Done] text editor
+	[Done] trimenal
+	[Done] create a github rep
 [] html
 [] css
 [] java-script
